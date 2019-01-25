@@ -1,2 +1,2 @@
 # xiaofeiniu_app
-小肥牛客户端点餐系统
+小肥牛顾客APP子系统
